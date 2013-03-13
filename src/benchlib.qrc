@@ -1,0 +1,9 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>chart_template.html</file>
+     <file>benchmark_template.html</file>
+     <file>excanvas.js</file>
+     <file>flotr.js</file>
+     <file>prototype.js</file>
+ </qresource>
+ </RCC> 
